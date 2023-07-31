@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '39819'
     url: http://www.gutenberg.org/2009/agents/39819
     wikipedia: https://fi.wikipedia.org/wiki/Eino_Voionmaa
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bordeaux, Henry
@@ -22,6 +25,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Henry_Bordeaux
     - https://en.wikipedia.org/wiki/Henry_Bordeaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71136#Isien-perinto
 gutenberg_issued: '2023-07-07'
 identifiers:
   gutenberg: '71136'
